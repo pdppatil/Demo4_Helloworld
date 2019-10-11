@@ -1,0 +1,14 @@
+ Volume in drive F is Data
+ Volume Serial Number is 3E0A-6AAE
+
+ Directory of F:\Study\Jenkins_Practice
+
+11-Oct-19  06:09 PM    <DIR>          .
+11-Oct-19  06:09 PM    <DIR>          ..
+11-Oct-19  05:49 PM               420 Hello.class
+11-Oct-19  05:43 PM               122 hello.java
+11-Oct-19  06:05 PM               491 index.txt
+11-Oct-19  06:09 PM                 0 read2.txt
+11-Oct-19  06:02 PM               442 readme.txt
+               5 File(s)          1,475 bytes
+               2 Dir(s)  42,000,089,088 bytes free
